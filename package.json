@@ -44,5 +44,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://springhana.github.io/plan_page"
+  "homepage": "https://springhana.github.io/plan_page",
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "gh-pages": "^5.0.0"
+  }
 }
